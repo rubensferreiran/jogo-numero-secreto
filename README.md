@@ -15,7 +15,7 @@ O "Jogo do Número Secreto" é um jogo simples onde o jogador deve adivinhar um 
 - JavaScript
 
 ## 🕹️ Como Jogar
-🔗 Acesse o link: [Jogo do Número Secreto]() ou abra o arquivo `index.html` no seu navegador.
+🔗 Acesse o link: [Jogo do Número Secreto](https://gamer-three.vercel.app/) ou abra o arquivo `index.html` no seu navegador.
 
 1. Insira um número entre 1 e 10 no campo de entrada.
 2. Clique no botão "Chutar" para fazer um palpite.
