@@ -2,7 +2,7 @@
 
 # 🎲 Jogo do Número Secreto 🎯
 
-Este é um projeto de jogo interativo desenvolvido com HTML, CSS e JavaScript. O jogo foi criado como parte de um curso de lógica de programação oferecido pela One e Alura.
+Este é um projeto de jogo interativo desenvolvido com HTML, CSS e JavaScript. O jogo foi criado como parte de um curso de lógica de programação oferecido pela Alura.
 
 ## 📖 Sobre o Jogo
 
